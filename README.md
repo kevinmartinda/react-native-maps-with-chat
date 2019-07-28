@@ -38,7 +38,7 @@ After that, edit the .env file in the root directory to your own secret API and 
 react-native run android
 ```
   
-you can watch demo of this app [here](https://youtu.be/MXNVIOvPlzg)
+you can watch demo of this app [here](https://youtu.be/1k_5o2DLkBg)
   
 # Requirements  
 -[Node.js](https://nodejs.org/en/) V8+
